@@ -1,8 +1,9 @@
+import { NgFor } from '@angular/common';
 import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-technologies-list',
-  imports: [],
+  imports: [NgFor],
   templateUrl: './technologies-list.component.html',
   styleUrl: './technologies-list.component.css'
 })

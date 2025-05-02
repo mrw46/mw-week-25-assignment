@@ -9,5 +9,5 @@ import { TechnologiesListComponent } from './technologies-list/technologies-list
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Basic Angular App';
+  title = 'my basic Angular app';
 }

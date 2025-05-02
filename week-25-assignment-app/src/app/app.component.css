@@ -1,0 +1,15 @@
+h1 {
+   padding: 1rem 2rem; 
+   border-radius: 1rem;
+   font-size: 3rem;
+   color: gold;
+   background-color: black;
+   box-shadow: 2px 2px 5px goldenrod;
+}
+
+div {
+    padding: 0 2rem;
+    border: solid 1px;
+    border-radius: 1rem;
+    background-color:cornsilk;
+}
